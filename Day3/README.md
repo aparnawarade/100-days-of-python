@@ -13,3 +13,5 @@ https://replit.com/@adwarade/Day3#pizza.py
 
 
 https://replit.com/@adwarade/Day3#love_calculator.py
+![image](https://github.com/user-attachments/assets/985deda8-f12e-4f3b-b921-427f5291bbf5)
+
