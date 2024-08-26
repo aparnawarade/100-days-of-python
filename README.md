@@ -1,5 +1,24 @@
 # 100-days-of-python
 
+Day 1 - Working with Variables in Python to Manage Data
+
+https://replit.com/@adwarade/Day3#Day1/type.py
+
+https://replit.com/@adwarade/Day3#Day1/switch_value.py
+
+https://replit.com/@adwarade/Day3#Day1/quote.py
+
+https://replit.com/@adwarade/Day3#Day1/printstatement.py
+
+https://replit.com/@adwarade/Day3#Day1/input_function.py
+
+https://replit.com/@adwarade/Day3#Day1/brand_name_generator.py
+
+
+Day 2 - Understanding Data Types and How to Manipulate Strings
+
+
+
 Day 3 - Control Flow and Logical Operators
 Exercise
 
