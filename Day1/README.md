@@ -13,4 +13,4 @@ https://replit.com/@adwarade/Day3#Day1/input_function.py
 
 https://replit.com/@adwarade/Day3#Day1/brand_name_generator.py
 
-https://github.com/aparnawarade/100-days-of-python/blob/main/Day1/band_name_generator.gif
+![band_name_generator](https://github.com/user-attachments/assets/fb701828-1bad-44a6-9c10-9da778f7cedb)
