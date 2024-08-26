@@ -1,5 +1,5 @@
 
-Day 1 
+Day 1 - Working with Variables in Python to Manage Data
 
 https://replit.com/@adwarade/Day3#Day1/type.py
 
