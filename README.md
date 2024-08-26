@@ -30,6 +30,11 @@ https://replit.com/@adwarade/Day3#Day2/TipCalculator_project.py
 Day 3 - Control Flow and Logical Operators
 Exercise
 
+# 100-days-of-python
+
+Day 3 - Control Flow and Logical Operators
+Exercise
+
 https://replit.com/@adwarade/Day3#main.py
 
 https://replit.com/@adwarade/Day3#bmi_calculator.py
@@ -39,5 +44,8 @@ https://replit.com/@adwarade/Day3#leap_year.py
 https://replit.com/@adwarade/Day3#pizza.py
 
 https://replit.com/@adwarade/Day3#love_calculator.py
+
+https://replit.com/@adwarade/Day3#treasure_island.py
+
 
 
