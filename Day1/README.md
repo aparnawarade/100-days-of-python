@@ -12,3 +12,5 @@ https://replit.com/@adwarade/Day3#Day1/printstatement.py
 https://replit.com/@adwarade/Day3#Day1/input_function.py
 
 https://replit.com/@adwarade/Day3#Day1/brand_name_generator.py
+
+https://github.com/aparnawarade/100-days-of-python/blob/main/Day1/band_name_generator.gif
