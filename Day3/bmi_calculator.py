@@ -1,11 +1,17 @@
-weight = 85
-height = 1.85
-
+# Enter your height in meters e.g., 1.55
+height = float(input("Enter Height in meters: "))
+# Enter your weight in kilograms e.g., 72
+weight = int(input("ENter weight in kilograms: "))
+# 🚨 Don't change the code above 👆
 bmi = weight / (height ** 2)
+#Write your code below this line 👇
 if bmi <18.5:
-  print("underweight")
+  print(f"Your BMI is {bmi}, you are underweight.")
 elif 18.5 <=bmi <25:
-  print("normal weight")
-elif bmi>=25:
-  print("overweight")
-
+  print(f"Your BMI is {bmi}, you have a normal weight.")
+elif bmi < 30:
+  print(f"Your BMI is {bmi}, you are slightly overweight.")
+elif bmi < 35:
+  print(f"Your BMI is {bmi}, you are obese.")
+else: 
+  print(f"Your BMI is {bmi}, you are clinically obese.")
