@@ -59,6 +59,16 @@ https://replit.com/@adwarade/Day3#Day4/X-spot.py
 
 project 
 https://replit.com/@adwarade/Day3#Day4/rock_paper_scissors.py
-![rock_paper_scissors](https://github.com/user-attachments/assets/12342f85-51eb-4c29-9836-1cc5e29b3145)
 
+Day 5 : Loops 
+
+https://replit.com/@adwarade/Day3#Day5/list_avg.py
+
+https://replit.com/@adwarade/Day3#Day5/max_score.py
+
+https://replit.com/@adwarade/Day3#Day5/range_function.py
+
+https://replit.com/@adwarade/Day3#Day5/FizzBuzz.py
+
+https://replit.com/@adwarade/Day3#Day5/password_generator_project.py
 
