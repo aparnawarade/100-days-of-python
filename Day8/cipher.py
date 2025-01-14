@@ -16,10 +16,19 @@ def encrypt(text,shift):
       cipher_text+=letter  
   return cipher_text 
   
-
-if direction=='encode':
-  cipher_text=encrypt(text,shift)
-  print(f"The encoded text is {cipher_text}")
-elif direction=='decode':
-  cipher_text=encrypt(text,shift*-1)
-  print(f"The decoded text is {cipher_text}")
+answer=True
+while answer:
+  if direction=='encode':
+    cipher_text=encrypt(text,shift)
+    print(f"The encoded text is {cipher_text}")
+  elif direction=='decode':
+    cipher_text=encrypt(text,shift*-1)
+    print(f"The decoded text is {cipher_text}")
+  ans=(input("Type 'yes' if you want to go again. Otherwise type 'no'.\n")).lower()
+  if ans=='yes':
+    direction=input("Type 'encode' to encrypt, type 'decode' to decrypt:\n")
+    text=input("Type your message:\n").lower()
+    shift=int(input(f"Type the shift number:\n"))
+  else:
+    answer=False
+    print('Goodbye')
