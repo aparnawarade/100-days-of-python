@@ -72,3 +72,11 @@ https://replit.com/@adwarade/Day3#Day5/FizzBuzz.py
 
 https://replit.com/@adwarade/Day3#Day5/password_generator_project.py
 
+Day 6 :
+https://replit.com/@adwarade/Day3#Day6/function.py
+Day 7: 
+https://replit.com/@adwarade/Day3#Day7/hangman.py
+
+Day 8 :
+https://replit.com/@adwarade/Day3#Day8/cipher.py
+
